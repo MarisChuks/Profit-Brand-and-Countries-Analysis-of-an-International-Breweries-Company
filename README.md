@@ -6,7 +6,7 @@ This repository contains an Excel project analyzing the sales, profits, brands, 
 ## Objective ##
 The aim is to delve into the dataset to understand sales trends, identify top-performing brands and countries, and provide actionable insights to drive future growth and innovation for the brewery.
 
-[Link to Medium Article](https://medium.com/your-article)
+[Link to Medium Article](https://medium.com/@marischukwuma/profit-brand-and-countries-data-analysis-for-a-brewery-using-excel-a04f907939d5)
 
 
 <!---
